@@ -1,0 +1,5 @@
+2025-01-08 10:17:27 INFO  BaseClass:222 - 'ConnectSigninButton_id' is clicked
+2025-01-08 10:17:30 INFO  BaseClass:233 - 'regtestcon354@mailinator.com' input is passed to the 'username_xpath'
+2025-01-08 10:17:30 INFO  BaseClass:233 - 'test@123' input is passed to the 'password_xpath'
+2025-01-08 10:17:30 INFO  BaseClass:222 - 'Login_xpath' is clicked
+2025-01-08 10:17:44 INFO  BaseClass:222 - 'Apppalette_xpath' is clicked

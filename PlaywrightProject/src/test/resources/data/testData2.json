@@ -1,0 +1,20 @@
+{
+	"LoginInfo": {
+	
+		  "connectUrl": "https://qa-connect.fsc.org/",
+		  "username": "regtestcon275@mailinator.com",
+		  "password": "test@123",
+		  "FromDate": "2024-10-11",
+		  "ToDate": "2024-12-11",
+		  "FirstName": "reg test",
+		  "LastName": "con a52",
+		  "Email": "regtestcona52@mailinator.com",
+		  "JobTitle": "Member",
+		  "MailinatorUrl": "https://www.mailinator.com/",
+		  "PasswordNew": "test@123",
+		  "PasswordReEnter": "test@123"
+		
+	}
+	
+	
+}

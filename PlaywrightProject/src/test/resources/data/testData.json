@@ -1,0 +1,43 @@
+{
+	"singleUser": {
+	
+		  "connectUrl": "https://qa-connect.fsc.org/",
+		  "username": "bctestcontact033@mailinator.com",
+		  "password": "test@123",
+		  "Email": "bctestcontact033d@mailinator.com",
+		  "JobTitle": "Member",
+		  "lastName" : "033d",
+		  "MailinatorUrl": "https://www.mailinator.com/",
+		  "PasswordNew": "test@123",
+		  "PasswordReEnter": "test@123"		
+	},
+	
+	"groupUser": {
+	
+		  "connectUrl": "https://qa-connect.fsc.org/",
+		  "username": "regtestcon354@mailinator.com",
+		  "password": "test@123",
+		  "Email": "regtestcona58@mailinator.com",
+		  "JobTitle": "Member",
+		  "lastName" : "a58",
+		  "MailinatorUrl": "https://www.mailinator.com/",
+		  "PasswordNew": "test@123",
+		  "PasswordReEnter": "test@123",
+		  "FirstName_site":""
+	},
+	"groupSiteUser": {
+		
+			  "connectUrl": "https://qa-connect.fsc.org/",
+			  "username": "regtestcon354@mailinator.com",
+			  "password": "test@123",
+			  "Email": "regtestcona59@mailinator.com",
+			  "JobTitle": "Member",
+			  "lastName" : "a59",
+			  "MailinatorUrl": "https://www.mailinator.com/",
+			  "PasswordNew": "test@123",
+			  "PasswordReEnter": "test@123",
+			  "FirstName_site":""
+		}
+	
+	
+}
