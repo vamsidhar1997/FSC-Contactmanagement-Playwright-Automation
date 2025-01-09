@@ -50,7 +50,7 @@ public class FscConnectEvents extends BaseClass {
 
 	public void editContact()
 	{
-		
+		System.out.println("worked");
 		
 	}
 
